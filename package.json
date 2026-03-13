@@ -1,7 +1,7 @@
 {
   "name": "fiche-decouverte-sextant",
-  "version": "1.0.0",
-  "description": "Fiche Découverte Immobilière - Sextant France Martinique",
+  "version": "2.0.0",
+  "description": "Fiche Découverte Immobilière — Sextant France Martinique",
   "private": true,
   "scripts": {
     "dev": "vite",
